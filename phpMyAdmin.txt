@@ -1,0 +1,13 @@
+phpmyadmin-ctl install
+Starting installation
+Starting MySQL
+ * Starting MySQL database server mysqld
+   ...done.
+Configuring database
+Starting apache
+ * Restarting web server apache2
+   ...done.
+
+PHPMyAdmin Installation complete. You can log in at: https://intro-to-php-tamouse.c9users.io/phpmyadmin with the following username (and blank password):
+
+       Username: tamouse
