@@ -7,6 +7,5 @@
 echo 'Hello world from Cloud9!';
 
 ?>
-<p>Hello, <?php echo 'world' ?>!</p>
 </body>
 </html>
