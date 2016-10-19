@@ -1,5 +1,5 @@
 <h1>Please fill out the form!</h1>
-<form method="POST" action="mailto:tamouse@gmail.com">
+<form method="POST" action="send-mail.php">
     <fieldset>
         <label for="name">Name:</label>
         <input id="name" name="name" type="text_field" value="" placeholder="Enter your name">
